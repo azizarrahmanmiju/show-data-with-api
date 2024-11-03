@@ -1,0 +1,12 @@
+#post-container {
+    border: solid white 1px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.id-title {
+    display: flex;
+    gap: 10px;
+}
